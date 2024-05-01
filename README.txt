@@ -7,8 +7,8 @@
          	      -- DCS course --
 		 
 
-authors:	* Shay Gihaz - 314991100
-		* Uri Lavi - 205945793
+authors:	* Shay Gihaz
+		* Uri Lavi
 		      
 --------------------------------------------------------------
 
