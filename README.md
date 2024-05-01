@@ -5,8 +5,8 @@
 
          	       -- DCS course --
 
-authors:	    Shay Gihaz - 314991100
-                Uri Lavi - 205945793
+authors:	* Shay Gihaz - 314991100
+		* Uri Lavi - 205945793
 		      
 --------------------------------------------------------------
 
@@ -26,4 +26,4 @@ Included Python files:
 
 * Every module has it's own functions except of the lightNobjects.py that is using both light.py and Object.py modules
 
-** C files are in CCS folder
+* C files are in CCS folder
