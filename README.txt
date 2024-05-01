@@ -1,13 +1,16 @@
 --------------------------------------------------------------
- 			  README FILE
 
+ 			README FILE
+      
      Light source and object proximity detector system
 
-         	       -- DCS course --
+         	      -- DCS course --
+		 
 
 authors:	* Shay Gihaz - 314991100
 		* Uri Lavi - 205945793
 		      
+--------------------------------------------------------------
 --------------------------------------------------------------
 
 Included Python files:
