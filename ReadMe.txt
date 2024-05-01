@@ -5,8 +5,8 @@
 
          	       -- DCS course --
 
-authors:	Uri Lavi - 205945793
-		Avshalom Shay Gihaz - 314991100
+authors:	Shay Gihaz - 314991100
+                Uri Lavi - 205945793
 --------------------------------------------------------------
 
 Included Python files:
